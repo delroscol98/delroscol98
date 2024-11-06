@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=delroscol98" alt="delroscol98" /></a> </p>
 
-- 🌱 I’m currently learning **React + Redux**
+- 🌱 I’m currently learning **Next.js**
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
