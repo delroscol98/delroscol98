@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=delroscol98" alt="delroscol98" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
 - 🤝 I’m looking for help with **React libraries**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Next.js**
 
 - 📫 How to reach me **collindelrosario98@gmail.com**
 
