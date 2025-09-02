@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=delroscol98" alt="delroscol98" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Backend Development on Boot.dev**
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
-- 🤝 I’m looking for help with **React libraries**
+- 🤝 I’m looking for help with **Memory Management in C**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, Next.js**
 
 - 📫 How to reach me **collindelrosario98@gmail.com**
 
-- ⚡ Fun fact **I used to teach people dancing in ballroom and latin**
+- ⚡ Fun fact **I currently work as a Mathematics Teacher**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
